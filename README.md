@@ -1,6 +1,6 @@
 # Digital Image Processing - UMass Amherst
 
-Welcome to the `Digital Image Processing (DIP)` repository.  This repository contains essential materials for the DIP course that I taught as ECE-566 course at the University of Massachusetts Amherst (UMass Amherst), including presentation slides and code implementations. Regular updates will be made throughout the semester to ensure you have access to the latest resources.
+Welcome to this `Digital Image Processing (DIP)` repository.  This repository contains essential materials for the DIP course that I taught as ECE-566 course at the University of Massachusetts Amherst (UMass Amherst), including presentation slides and code implementations. Regular updates will be made throughout the semester to ensure you have access to the latest resources.
 
 ## Course Overview
 
